@@ -20,5 +20,5 @@ author:
 # Custom vars
 version:          1.0.0
 
-github:           https://github.com/juanmtg
-  repo:           
+github:           
+  repo:           https://github.com/juanmtg
