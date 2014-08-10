@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            JuanMtg
 tagline:          'Some guy that sometimes does math'
-description:      'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      'I forgot to bring the "Under Construction" signs.'
 url:              http://juanmtg.github.io
 baseurl:          '/'
 paginate:         5
@@ -22,3 +22,17 @@ version:          1.0.0
 
 github:           
   repo:           https://github.com/juanmtg
+
+# Includes an icon in the footer for each username you enter
+footer-links:
+  dribbble: 
+  email: 
+  facebook: 
+  flickr: 
+  github: juanmtg
+  instagram: 
+  linkedin: 
+  pinterest: 
+  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
+  twitter: juanmtg
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"

@@ -527,6 +527,29 @@ a.pagination-item:hover {
   color: #8f5536;
 }
 
+/* Custom 1 */
+.theme-base-j1 .sidebar,
+.theme-base-j1 .sidebar-toggle:active,
+.theme-base-j1 #sidebar-checkbox:checked ~ .sidebar-toggle {
+  background-color: #0088FF;
+}
+.theme-base-j1 .container a,
+.theme-base-j1 .sidebar-toggle,
+.theme-base-j1 .related-posts li a:hover {
+  color: #0088FF;
+}
+
+/* Custom 2 */
+.theme-base-j2 .sidebar,
+.theme-base-j2 .sidebar-toggle:active,
+.theme-base-j2 #sidebar-checkbox:checked ~ .sidebar-toggle {
+  background-color: #9E04C4;
+}
+.theme-base-j2 .container a,
+.theme-base-j2 .sidebar-toggle,
+.theme-base-j2 .related-posts li a:hover {
+  color: #9E04C4;
+}
 
 /*
  * Overlay sidebar
