@@ -14,3 +14,4 @@ title: About
 ## What other things do you usually do?
  
 ## Where can I find you?
+There is a set of links on the sidebar where all my social links are listed.
