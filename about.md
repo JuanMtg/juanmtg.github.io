@@ -25,7 +25,7 @@ own tab on the sidebar or have their own repository on GitHub.
 
  
 ## Where can I find you?
-There is a set of links on the sidebar where all my social links are listed.
+You can find all my social links on the left sidebar.
 
 ## How was this blog made?
 This blog is hosted using [Github Pages](https://pages.github.com/) and is powered by [Lanyon](https://github.com/poole/lanyon),
