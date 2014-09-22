@@ -14,7 +14,7 @@ baseurl:          '/'
 paginate:         5
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://juanmtg.github.io/images/avatar.jpg
+avatar: https://juanmtg.github.io/images/avatar.png
 
 author:
   nick:           'JuanMtg'
