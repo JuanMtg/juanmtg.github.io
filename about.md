@@ -10,12 +10,12 @@ title: About
 
 ## Who are you?
 I'm just a 22-year-old spanish guy with a degree in Mathematics.
- 
+
 ## Why are you writing this?
 Well, there are a few reasons for the existence of this blog. One of them would be because I want to
-write about things that I enjoy. Practising my English is the other reason, and that is why most of 
-this is wirtten in English despite being Spanish myself.
- 
+write about things that I enjoy. Practising my English is the other reason, and that is why most of
+this is written in English despite being Spanish myself.
+
 ## What other things do you usually do?
 I enjoy playing video games and you can check my Steam profile clicking on the icon in the sidebar.
 Feel free to add me if you want to hang out.
@@ -23,7 +23,7 @@ Feel free to add me if you want to hang out.
 I also code little things in Python (nothing big, I'm still a beginner) which will probably have their
 own tab on the sidebar or have their own repository on GitHub.
 
- 
+
 ## Where can I find you?
 You can find all my social links on the left sidebar.
 
