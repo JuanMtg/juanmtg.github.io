@@ -15,8 +15,10 @@ también para realizar grabaciones locales. Es un software que permite una gran 
 que aparezca en nuestra grabación.
 
 Existen dos versiones de este programa:
+
 - **OBS Classic**. La versión que utilizaremos en el desarrollo del tutorial. Esta versión no recibirá más actualizaciones, pero por
 simplicidad es la que utilizaremos. Sólo está disponible para Windows.
+
 - **OBS Studio**. Es una nueva versión de OBS tiene las mismas características que la anterior, pero la selección de partes de la
 pantalla es más engorrosa, por lo que usamos la anterior. 
 
@@ -32,11 +34,11 @@ Wacom Intuos </a>, aunque existen multitud de alternativas de otras marcas).
 En este primer vídeo se explican las herramientas que **yo** utilizo. Como indico, existen multitud de herramientas de similares
 características. Lo importante es escoger una herramienta con la que trabajemos cómodamente y se adecúe a las necesidades del alumnado.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=21aT6AQ8EkE" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/21aT6AQ8EkE" frameborder="0" allowfullscreen></iframe>
 
 ### Como utilizar Open Broadcaster Software (OBS)
 En este segundo vídeo se explica el manejo de las distintas opciones básicas de OBS.
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=yH08cw6AEw4" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yH08cw6AEw4" frameborder="0" allowfullscreen></iframe>
 
 
 ## Ejemplo de vídeo para ilustrar el concepto de aproximación a un punto.
