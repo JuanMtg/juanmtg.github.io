@@ -6,9 +6,9 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            JuanMtg
-tagline:          'Some guy that sometimes does math'
-description:      'I forgot to bring the "Under Construction" signs.'
+title:            Juan Antonio Macías
+tagline:          'Un loco más al que le gustan las matemáticas.'
+description:      'Me he dejado las señales de suelo mojado en casa.'
 url:              http://juanmtg.github.io
 baseurl:          '/'
 paginate:         5
