@@ -30,13 +30,13 @@ digitalizadora, que hace más fácil el manejo que con el ratón (en concreto, u
 Wacom Intuos </a>, aunque existen multitud de alternativas de otras marcas).
 
 ## Vídeos explicativos
-### Como grabar vídeos para Flipped Classroom
+
 
 En este primer vídeo se explican las herramientas que **yo** utilizo. Como indico, existen multitud de herramientas de similares
 características. Lo importante es escoger una herramienta con la que trabajemos cómodamente y se adecúe a las necesidades del alumnado.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/21aT6AQ8EkE" frameborder="0" allowfullscreen></iframe>
-### Como utilizar Open Broadcaster Software (OBS)
+
 
 En este segundo vídeo se explica el manejo de las distintas opciones básicas de OBS.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yH08cw6AEw4" frameborder="0" allowfullscreen></iframe>
