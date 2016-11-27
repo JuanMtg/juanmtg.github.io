@@ -1,36 +1,40 @@
 ---
 layout: page
-title: About
+title: Acerca de
 ---
 
 <p class="message">
-  Hey there! This page still a work in progress. I'll let you know when it's finished.
+ ¡Hola! Esta página está aún en construcción. Quién sabe si algún día dejará de estarlo. 
 </p>
 
 
-## Who are you?
-I'm just a 22-year-old spanish guy with a degree in Mathematics.
+## ¿Quién soy?
+Soy Juan Antonio, tengo 24 años y soy un tipo algo chalado que estudió Matemáticas y ahora está preocupado por la educación,
+ en especial por la Didáctica de la Matemática.
 
-## Why are you writing this?
-Well, there are a few reasons for the existence of this blog. One of them would be because I want to
-write about things that I enjoy. Practising my English is the other reason, and that is why most of
-this is written in English despite being Spanish myself.
+Para conocer algo más de mi formación, puedes ver [mi curriculum vitae aquí](http://juanmtg.github.io/CV.pdf).
 
-## What other things do you usually do?
-I enjoy playing video games and you can check my Steam profile clicking on the icon in the sidebar.
-Feel free to add me if you want to hang out.
+## ¿Por qué está esto aquí?
+Bueno, esta página sirve para recoger (o algún día lo hará) las cosas interesantes que vaya haciendo y en lo que vaya
+trabajando. También espero ir escribiendo cosillas que me gusten.
 
-I also code little things in Python (nothing big, I'm still a beginner) which will probably have their
-own tab on the sidebar or have their own repository on GitHub.
+De momento podéis echarle un vistazo a la página acerca del [Flipped Classroom](http://juanmtg.github.io/flippedclassroom),
+donde hay colgados un par de tutoriales sobre herramientas que utilizo personalmente.
 
+## ¿Qué otras cosas haces en tu tiempo libre?
+Parte de mi tiempo libre lo paso jugando. En el menú lateral hay un enlace a mi perfil de Steam. ¡Añádeme si te apetece!
 
-## Where can I find you?
-You can find all my social links on the left sidebar.
+A ratos también me gusta programar pequeñas cositas en Python (nada grande, aún aprendiendo). Algún día tendrá su apartado
+en esta página. De momento puedes echarle un vistazo a mi perfil en GitHub, al que puedes llegar desde el icono del menú
+lateral.
 
-## How was this blog made?
-This blog is hosted using [Github Pages](https://pages.github.com/) and is powered by [Lanyon](https://github.com/poole/lanyon),
-a [Jekyll](http://jekyllrb.com/) theme which also has some elements from [Jekyll-now](https://github.com/barryclark/jekyll-now).
-The comment system is provided by [disqus](https://www.disqus.com).
+## ¿Dónde puedo encontrarte/contactar contigo?
+Todos los enlaces a redes sociales están en el menú de la izquierda.
 
-If you have any questions about the blog's system, just ask them or you can look it up yourself by
-forking the repository on GitHub.
+## ¿Cómo has hecho esta página?
+Esta página está alojada en [Github Pages](https://pages.github.com/) y está hecha con [Lanyon](https://github.com/poole/lanyon),
+un tema de [Jekyll](http://jekyllrb.com/) con algunas cosillas de [Jekyll-now](https://github.com/barryclark/jekyll-now).
+Los comentarios en las entradas son gracias a [disqus](https://www.disqus.com).
+
+Si tienes alguna pregunta más acerca de la página, sólo tienes que preguntar o mirarlo tú mismo/a haciéndole un fork al
+repositorio en GitHub.
