@@ -4,32 +4,41 @@ title: Vigo
 ---
 
 <p class="message">
- 16/6/17, 17:01 - Juan Antonio Macías: El paraíso 
+**Juan Antonio Macías**: El paraíso 
  <p>
 <img src="http://juanmtg.github.io/images/whatsapp/1.jpeg" alt="1" style="width:200px;">
 </p>
 </p>
 <p class="message">
+**Carolina Martín (Departamento)**: 😂😂😂😂😂
+</p>
+<p class="message">
+**Cristina Sánchez**: Ajajajaja Jajajaja
+</p>
+<p class="message">
+**Paqui García (Departamento)**: Yo quiero unoii
+
+Traer.elooo
+
+😂😂😂
+
+Azulll
+
+Mar de vigo
+
+😂
+</p>
+<p class="message">
  ¡Hola! Esta página está aún en construcción. Quién sabe si algún día dejará de estarlo. 
-</p><p class="message">
- ¡Hola! Esta página está aún en construcción. Quién sabe si algún día dejará de estarlo. 
-</p><p class="message">
- ¡Hola! Esta página está aún en construcción. Quién sabe si algún día dejará de estarlo. 
-</p><p class="message">
- ¡Hola! Esta página está aún en construcción. Quién sabe si algún día dejará de estarlo. 
-</p><p class="message">
+</p>
+<p class="message">
  ¡Hola! Esta página está aún en construcción. Quién sabe si algún día dejará de estarlo. 
 </p>
 
 
-16/6/17, 17:01 - Carolina Martín (Departamento): 😂😂😂😂😂
-16/6/17, 17:07 - Cristina Sánchez: Ajajajaja Jajajaja
-16/6/17, 18:16 - Paqui García (Departamento): Yo quiero unoii
-16/6/17, 18:17 - Paqui García (Departamento): Traer.elooo
-16/6/17, 18:17 - Paqui García (Departamento): 😂😂😂
-16/6/17, 18:17 - Paqui García (Departamento): Azulll
-16/6/17, 18:17 - Paqui García (Departamento): Mar de vigo
-16/6/17, 18:17 - Paqui García (Departamento): 😂
+
+
+
 16/6/17, 18:17 - Juan Antonio Macías: <Archivo omitido>
 16/6/17, 18:17 - Juan Antonio Macías: <Archivo omitido>
 16/6/17, 18:18 - Juan Antonio Macías: <Archivo omitido>
