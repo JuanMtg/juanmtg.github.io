@@ -6,7 +6,7 @@ title: Vigo
 <p class="message">
  16/6/17, 17:01 - Juan Antonio Macías: El paraíso 
  <p>
-<img src="images/whatsapp/1.jpeg" alt="1" style="width:200px;">
+<img src="http://juanmtg.github.io/images/whatsapp/1.jpeg" alt="1" style="width:200px;">
 </p>
 </p>
 <p class="message">
